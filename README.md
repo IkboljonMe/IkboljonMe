@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ikboljon Abdurasulov</h1>
 <h3 align="center">A passionate developer from Uzbekistan🇺🇿</h3>
-(img align="right" alt="Coding" width="400" src="https://github.com/IkboljonMe/IkboljonMe/blob/main/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://github.com/IkboljonMe/IkboljonMe/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikboljonme&label=Profile%20views&color=0e75b6&style=flat" alt="ikboljonme" /> </p>
 
 
 - 🔭 I’m currently working on [javascript algorithms](https://github.com/IkboljonMe/javascript-algorithms)
 
-- 🌱 I’m currently learning **Typescript, React, Next js, Prisma, Node js, Express js ...**
+- 🌱 I’m currently learning **Typescript, React,Node js**
 
-- 💬 Ask me about **Algorithms, Javascript, React**
+- 💬 Ask me about **Algorithms, Javascript and React**
 
 - 📫 How to reach me **ikboljonme@gmail.com**
 
